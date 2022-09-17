@@ -3,7 +3,7 @@
 
 ### parse_sameas.py
 
-`parse_sameas.py` processes DBpedia sameAs link file and generates `owl:sameAs` statements for the Latvian DBpedia in the form of `<dbpedia_lv_URI> owl:sameAs <other_language_URI>`.
+`src/parse_sameas.py` processes DBpedia sameAs link file and generates `owl:sameAs` statements for the Latvian DBpedia in the form of `<dbpedia_lv_URI> owl:sameAs <other_language_URI>`.
 
 DBpedia sameAs links can be found here:
 * https://databus.dbpedia.org/vehnem/replaced-iris/sameAs/2022.03.01/
