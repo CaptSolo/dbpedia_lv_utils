@@ -126,7 +126,7 @@ def main():
     clusters = make_clusters(triples)
     clusters_lv = filter_lv_clusters(clusters)
 
-    clusters_lv = islice(clusters_lv, 100)
+    # clusters_lv = islice(clusters_lv, 100)
 
     clusters_lv_transformed = transform_to_lv_clusters(clusters_lv)
 
