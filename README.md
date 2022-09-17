@@ -7,7 +7,7 @@
 
 #### Usage:
 
-`python parse_sameas.py > lv_sameas_output.nt`
+`python parse_sameas.py | bzip2 - > lv_sameas_output.nt`
 
 #### Data source:
 
