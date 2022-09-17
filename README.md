@@ -1,6 +1,5 @@
 # Latvian DBpedia utils
-Tools for generating and processing Latvian DBpedia data.
----
+## Tools for generating and processing Latvian DBpedia data
 
 ### parse_sameas.py
 
