@@ -17,7 +17,7 @@ import re
 #  - if we use the English DBpedia sameAs file, we will not have sameAs links
 #    for Latvian Wikipedia pages that do not have a version in English DBpedia.
 
-FNAME = "sameAs_lang=en.ttl.bz2"
+FNAME = "../data/sameAs_lang=en.ttl.bz2"
 
 
 def read_bzip2_file(filename):
