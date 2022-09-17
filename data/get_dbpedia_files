@@ -1,0 +1,1 @@
+wget -o log -i file_list.txt -nv

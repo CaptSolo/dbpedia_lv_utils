@@ -1,0 +1,55 @@
+# files that do not exist in Latvian language version
+
+# https://databus.dbpedia.org/dbpedia/generic/commons-sameas-links/2022.03.01/commons-sameas-links_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:54 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/disambiguations/2022.03.01/disambiguations_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:54 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/homepages/2022.03.01/homepages_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:56 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/images/2022.03.01/images_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:56 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/persondata/2022.03.01/persondata_lang=lv.ttl.bz2:
+# 2022-09-16 22:16:05 ERROR 404: Not Found.
+
+
+# downloads
+
+https://databus.dbpedia.org/ontologies/dbpedia.org/ontology--DEV/2022.03.09-192002/ontology--DEV_type=parsed_sorted.nt
+
+https://databus.dbpedia.org/dbpedia/text/long-abstracts/2022.03.01/long-abstracts_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/text/short-abstracts/2022.03.01/short-abstracts_lang=lv.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/mappings/specific-mappingbased-properties/2022.03.01/specific-mappingbased-properties_lang=lv.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/mappings/mappingbased-objects/2022.03.01/mappingbased-objects_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/mappings/mappingbased-literals/2022.03.01/mappingbased-literals_lang=lv.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/mappings/instance-types/2022.03.01/instance-types_lang=lv_specific.ttl.bz2
+https://databus.dbpedia.org/dbpedia/mappings/instance-types/2022.03.01/instance-types_lang=lv_transitive.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/mappings/geo-coordinates-mappingbased/2022.03.01/geo-coordinates-mappingbased_lang=lv.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/generic/article-templates/2022.03.01/article-templates_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/article-templates/2022.03.01/article-templates_lang=lv_nested.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/categories/2022.03.01/categories_lang=lv_articles.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/categories/2022.03.01/categories_lang=lv_labels.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/categories/2022.03.01/categories_lang=lv_skos.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/external-links/2022.03.01/external-links_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/geo-coordinates/2022.03.01/geo-coordinates_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/infobox-properties/2022.03.01/infobox-properties_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/infobox-property-definitions/2022.03.01/infobox-property-definitions_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/interlanguage-links/2022.03.01/interlanguage-links_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/labels/2022.03.01/labels_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/page/2022.03.01/page_lang=lv_ids.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/page/2022.03.01/page_lang=lv_length.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/redirects/2022.03.01/redirects_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/redirects/2022.03.01/redirects_lang=lv_transitive.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/revisions/2022.03.01/revisions_lang=lv_ids.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/revisions/2022.03.01/revisions_lang=lv_uris.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/wikilinks/2022.03.01/wikilinks_lang=lv.ttl.bz2
+https://databus.dbpedia.org/dbpedia/generic/wikipedia-links/2022.03.01/wikipedia-links_lang=lv.ttl.bz2
+
