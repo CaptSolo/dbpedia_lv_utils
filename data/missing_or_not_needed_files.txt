@@ -1,0 +1,104 @@
+
+# files that do not exist in Latvian language version
+
+# https://databus.dbpedia.org/dbpedia/generic/commons-sameas-links/2022.03.01/commons-sameas-links_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:54 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/disambiguations/2022.03.01/disambiguations_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:54 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/homepages/2022.03.01/homepages_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:56 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/images/2022.03.01/images_lang=lv.ttl.bz2:
+# 2022-09-16 22:15:56 ERROR 404: Not Found.
+# 
+# https://databus.dbpedia.org/dbpedia/generic/persondata/2022.03.01/persondata_lang=lv.ttl.bz2:
+# 2022-09-16 22:16:05 ERROR 404: Not Found.
+
+
+# files that do not need to be loaded or are not available for LV DBpedia:
+
+### ---- unclear if needed - find it out! ----
+
+https://databus.dbpedia.org/dbpedia/mappings/mappingbased-objects/2022.03.01/mappingbased-objects_lang=lv_disjointRange.ttl.bz2
+
+
+### ---- maybe not needed ----
+
+# has an LV language version, but link targets (freebase URIs) do not exist any more
+https://databus.dbpedia.org/dbpedia/transition/freebase-links/2019.02.10/freebase-links_lang=lv.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/transition/sdtypes/2016.10.01/sdtypes_lang=en.ttl.bz2
+
+
+### ---- not needed ----
+
+# has issue: many incorrect sameAs links (e.g. from http://dbpedia.org/resource/1,4-Butanediol)
+https://databus.dbpedia.org/vehnem/replaced-iris/sameAs/2022.03.01/sameAs_lang=en.ttl.bz2
+
+# YAGO
+https://databus.dbpedia.org/vehnem/yago/instance-types/2016.10.01/instance-types_tag=links.ttl.bz2
+https://databus.dbpedia.org/vehnem/yago/instance-types/2016.10.01/instance-types_tag=specific.ttl.bz2
+https://databus.dbpedia.org/vehnem/yago/taxonomy/2016.10.01/taxonomy.ttl.bz2
+
+# only in some languages
+https://databus.dbpedia.org/dbpedia/transition/linked-hypernyms/2019.02.10/linked-hypernyms_type=dbo_lang=en.ttl.bz2
+https://databus.dbpedia.org/dbpedia/transition/linked-hypernyms/2019.02.10/linked-hypernyms_type=ext_lang=en.ttl.bz2
+
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=19014254237_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=airport_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=amsterdammuseum_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=bricklink_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=cordis_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=datalinkedmdborg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=datalogainmie_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=daticamerait_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=datiisprambienteit_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=dblp_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=dbtuneorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=dnb_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=euniseeaeuropaeu_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=eurostatlinkedstatisticsorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=eurostatwbsg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=factbook_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=gadmgeovocaborg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=geospecies_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=gho_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=gutenberg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=gwnili_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=italianpublicschools_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=jrcnames_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=learningproviderdataacuk_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=linkedgeodataorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=linkedwebapis_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=lmdb_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=lobidorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=nytimes_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=opencyc_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=openeiorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=rdfdataeioneteuropaeu_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=revyu_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=sider_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=tcm_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=transparency270ainfo_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=umbel_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=uscensus_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=viaforg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wikicompany_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=worldbank270ainfo_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=www4wiwissfuberlinde_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwwbbccouk_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwwbbccouk_things_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwwgeonamesorg_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwwgridac_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwwspringernaturecom_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=wwww3org_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=yago_lang=en.nt.bz2
+https://databus.dbpedia.org/dbpedia/transition/links/2019.02.01/links_domain=zbweu_lang=en.nt.bz2
+
+
+
+
+
+
